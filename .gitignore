@@ -114,4 +114,5 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
-credentials.env
+params.env
+/debug/
